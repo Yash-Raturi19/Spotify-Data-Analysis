@@ -1,6 +1,7 @@
 # Spotify-Data-Analysis
 
 🎧 Spotify Data Analysis | Power BI Project
+
 📌 Project Objective
 Analyze Spotify music streaming data to understand listening trends, popular artists, hit songs, and user behavior using interactive Power BI dashboards.
 
